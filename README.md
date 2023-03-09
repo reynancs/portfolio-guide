@@ -1,5 +1,5 @@
 
-# My Data Science Portfolio
+#  Meu Portfolio de Projetos
 
 ## [Projeto 01: Aplicação de Machine Learning em Modelos de Credit Scoring](https://github.com/reynancs/Machine_Learning__Credit_Scoring)
 - Este conjunto de dados foi disponibilizado pelo Statlog (German Credit Data) dados reais, onde classifica as pessoas descritas por um conjunto de atributos como bons ou maus riscos de crédito.
