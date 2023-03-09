@@ -5,11 +5,11 @@ Bem-Vindo(a) ao meu Portfolio de Projetos.
 Qualquer dúvida ou sugestão sobre meus projetos, sinta-se a vontade de falar comigo no [Linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
 
 ## 📚 Sumário
-1. [Machine Learning](#machinelearning)
-2. [Business Intelligent](#bi)
+1. Machine Learning
+2. Business Intelligent
 
 ****
-##### Machine_learning
+
 ## 1. Machine Learning
 ## [Projeto 1.1: Aplicação de Machine Learning em Modelos de Credit Scoring](https://github.com/reynancs/Machine_Learning__Credit_Scoring)
 Status:
@@ -30,7 +30,6 @@ Este conjunto de dados foi disponibilizado pelo Statlog (German Credit Data) dad
 
 ## [Projeto 1.4: EasyCash - Projeto de Previsão de Inadimplência](https://github.com/reynancs/EasyCash))
 
-##### bi
 # 2. Business Intelligent
 ## [Projeto 2.1: Dashboard de Social Media feito a pedido de cliente](https://github.com/reynancs/dashboardsocialmedia)
 
