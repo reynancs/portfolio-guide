@@ -1,8 +1,15 @@
 
-#  Meu Portfolio de Projetos
-Seja bem-vindo(a) ao meu Portfólio de Projetos. 
+# 🗺 Portfolio Guide (em construção)
+Bem-Vindo(a) ao meu Portfolio de Projetos.
 
-## 1. Data Science
+Qualquer dúvida ou sugestão sobre meus projetos, sinta-se a vontade de falar comigo no [Linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
+
+## 📚 Sumário
+1. [Machine Learning](#machinelearning)
+2. [Business Intelligent](#bi)
+
+****
+# 1. Machine Learning
 ## [Projeto 1.1: Aplicação de Machine Learning em Modelos de Credit Scoring](https://github.com/reynancs/Machine_Learning__Credit_Scoring)
 Este conjunto de dados foi disponibilizado pelo Statlog (German Credit Data) dados reais, onde classifica as pessoas descritas por um conjunto de atributos como bons ou maus riscos de crédito.
 - A Base de Dados disponibilizada já esta com as informações traduzidas conforme dicionário de dados disponibilizado;
@@ -19,5 +26,8 @@ Este conjunto de dados foi disponibilizado pelo Statlog (German Credit Data) dad
 
 ## [Projeto 1.4: EasyCash - Projeto de Previsão de Inadimplência](https://github.com/reynancs/EasyCash))
 
+
+# 2. Business Intelligent
+## [Projeto 2.1: Dashboard de Social Media feito a pedido de cliente](https://github.com/reynancs/dashboardsocialmedia)
 
 
