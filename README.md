@@ -1,8 +1,8 @@
-# 🗺 Portfolio Guide
+# 🗺 Bem-Vindo ao meu Portfolio Guide
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen.svg)
 ![Welcome](https://img.shields.io/badge/Contribuição-Bem%20Vinda-brightgreen.svg)
 
-Bem-Vindo(a) ao meu Portfólio de Projetos, aqui você encontrará uma demonstração das minhas habilidades desenvolvidas aplicados á problemas reais.
+Aqui você encontrará uma demonstração das minhas habilidades desenvolvidas aplicados á problemas reais.
 
 ## 📚 Sumário
 1. [Machine Learning](https://github.com/reynancs/Portfolio-Guide/blob/main/README.md#machine-learning)
