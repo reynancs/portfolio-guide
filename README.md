@@ -29,7 +29,7 @@
 
 
 ## 📧 Contato
-Qualquer dúvida ou sugestão referente aos projetos, sinta-se a vontade de falar comigo:
+Qualquer dúvida ou sugestão, sinta-se a vontade de falar comigo:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-cardoso-8323b151) 
 
