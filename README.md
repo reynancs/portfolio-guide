@@ -1,16 +1,15 @@
 # 🗺 Portfolio Guide
-Bem-Vindo(a) ao meu Portfólio de Projetos, aqui você encontrará uma demonstração das minhas habilidades desenvolvidas aplicados á problemas reais 
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen.svg)
+![Welcome](https://img.shields.io/badge/Contribuição-Bem%20Vinda-brightgreen.svg)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&?style=flat-square)
-
-Qualquer dúvida ou sugestão referente aos projetos, sinta-se a vontade de falar comigo no [Linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
+Bem-Vindo(a) ao meu Portfólio de Projetos, aqui você encontrará uma demonstração das minhas habilidades desenvolvidas aplicados á problemas reais.
 
 ## 📚 Sumário
 1. [Machine Learning](https://github.com/reynancs/Portfolio-Guide/blob/main/README.md#machine-learning)
 
 
 ## 1. Machine Learning
-## [1.1: ML-Credit-Scoring](https://github.com/reynancs/Machine_Learning__Credit_Scoring)
+## [1.1.) ML-Credit-Scoring](https://github.com/reynancs/Machine_Learning__Credit_Scoring)
 
 **Descrição:** Aplicação de Machine Learning em Modelos de Credit Scoring para Classificação de Concessão de Créditos
 
@@ -21,5 +20,16 @@ Qualquer dúvida ou sugestão referente aos projetos, sinta-se a vontade de fala
 ![Como Funciona a Concessão de Crédito](/images/concessao_credito.jpg)
 
 **Problem Statement:**
+
+
+
+
+## :e-mail: Contato
+Qualquer dúvida ou sugestão referente aos projetos, sinta-se a vontade de falar comigo no meu Linkedin:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/renan-cardoso-8323b151/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 
