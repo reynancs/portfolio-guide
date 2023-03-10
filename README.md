@@ -1,6 +1,8 @@
 
-# 🗺 Portfolio Guide (em construção)
+# 🗺 Portfolio Guide
 Bem-Vindo(a) ao meu Portfolio de Projetos.
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&?style=flat-square)
 
 Qualquer dúvida ou sugestão sobre meus projetos, sinta-se a vontade de falar comigo no [Linkedin](https://www.linkedin.com/in/renan-cardoso-8323b151/)
 
@@ -12,7 +14,7 @@ Qualquer dúvida ou sugestão sobre meus projetos, sinta-se a vontade de falar c
 
 ## 1. Machine Learning
 ## [Projeto 1.1: Aplicação de Machine Learning em Modelos de Credit Scoring](https://github.com/reynancs/Machine_Learning__Credit_Scoring)
-Status:
+
 Skills: 
 Bibliotecas:
 Este conjunto de dados foi disponibilizado pelo Statlog (German Credit Data) dados reais, onde classifica as pessoas descritas por um conjunto de atributos como bons ou maus riscos de crédito.
