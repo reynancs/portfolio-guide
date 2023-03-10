@@ -1,4 +1,4 @@
-# 🗺 Bem-Vindo ao meu Portfolio Guide
+# 🗺 Seja Bem-Vindo ao meu Portfolio de Projetos
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen.svg)
 ![Welcome](https://img.shields.io/badge/Contribuição-Bem%20Vinda-brightgreen.svg)
 
