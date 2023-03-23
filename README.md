@@ -13,19 +13,20 @@
 
 
 ## 1. Machine Learning
-## [1.1. ML-Credit-Scoring](https://github.com/reynancs/Machine_Learning__Credit_Scoring)
+## [1.1. Easy Cash - Credit Risk Classification](https://github.com/reynancs/ml-easy-cash)
 
-**Descrição:** Aplicação de Machine Learning em Modelos de Credit Scoring para Classificação de Concessão de Créditos
+> **Descrição:** Projeto de Classificação com Machine Learning aplicado em Análise de Risco de Crédito de um banco, afim de, identificar possíveis inadimplentes.
 
-**Área:** Finanças
+**Área:** Mercado Financeiro
+
+![credit-risk](https://user-images.githubusercontent.com/97552106/227337493-b89b20c8-94e0-4947-8e3d-ebd2af929d71.jpg)
+
+A Easy Cash é um banco digital que atua desde 2015 no Brasil oferecendo produtos financeiros como: cartões de crédito, seguros e emprestímos. Uma das área que causa mais problemas para bancos, fintechs é a taxa de inadimplência por parte da sua carteira de clientes. No último resultado trimestral divulgado pela empresa, a diretoria financeira, comunicou que o número de inadimplentes após a liberação de crédito aumentou significativamente, tendo o ***EL (Expected Loss)*** com um aumento de 15% representando um ***EC (Economic Capital)*** de R$ 6.2 milhões para cobrir essas perdas inesperadas.
+
+Portanto, foi solicitado ao time de Data Science, que realizasse um estudo das informações financeiras e das solicitações de empréstimo para encontrar padrões que possam indicar uma possível inadimplência e determinar quais ações possam ser implementadas, afim de, reduzir estas perdas financeiras por conta de pessoas mutuárias que não quitam suas dívidas.
+
 
 **Habilidades/ Ferramentas:** `Python` `Pandas` `Matplotlib` `Seaborn` `Sklearn`
-
-![Como Funciona a Concessão de Crédito](/images/concessao_credito.jpg)
-
-**Problem Statement:**
-
-
 
 
 ## 📧 Contato
