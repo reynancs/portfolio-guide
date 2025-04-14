@@ -16,7 +16,7 @@ Welcome to my project portfolio! Here you'll find hands-on projects solving real
 
 | Project | Category | Industry Segment | Description | Technologies |
 |---------|----------|------------------|-------------|--------------|
-| [regression-car-price-prediction](regression-car-price-prediction) | Regression | Automotive Market | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [Kaggle](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data) | `Python`, `Pandas`, `scikit-learn`, `Seaborn` |
+| [regression-car-price-prediction](regression-car-price-prediction) | Regression | Automotive Market / Sales | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [Kaggle](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data) | `Python`, `Pandas`, `scikit-learn`, `Seaborn` |
 
 ---
 
