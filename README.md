@@ -1,11 +1,10 @@
-# 🗺 Bem-Vindo ao meu Portfólio de Projetos (em construção)
+# 🧠 Data Science & AI Project Portfolio
 [![Author](https://img.shields.io/badge/Author-Renan%20Cardoso-red.svg)](https://www.linkedin.com/in/renan-cardoso-8323b151) 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)
 [![Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
-# 🧠 Data Science & AI Project Portfolio
 
 Welcome to my project portfolio! Here you'll find hands-on projects solving real-world problems using Data Science, Data Engineering, Machine Learning, and Generative AI.
 
