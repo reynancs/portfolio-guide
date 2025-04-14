@@ -5,34 +5,39 @@
 [![Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
+# 🧠 Data Science & AI Project Portfolio
 
-> Aqui você encontrará uma demonstração das minhas habilidades desenvolvidas aplicados á problemas reais.
+Welcome to my project portfolio! Here you'll find hands-on projects solving real-world problems using Data Science, Data Engineering, Machine Learning, and Generative AI.
 
-## 📚 Sumário
-1. [Machine Learning](https://github.com/reynancs/Portfolio-Guide/blob/main/README.md#machine-learning)
+> 🔍 *This repository is focused on applied projects. For study notes and exercises, visit [`study-guide`](https://github.com/reynancs/study-guide).*
 
+---
 
-## 1. Machine Learning
-## [1.1. Easy Cash - Credit Risk Classification](https://github.com/reynancs/ml-easy-cash)
+## 📂 Project Overview
 
-> **Descrição:** Projeto de Classificação com Machine Learning aplicado em Análise de Risco de Crédito de um banco, afim de, identificar possíveis inadimplentes.
+| Project | Category | Industry Segment | Description | Technologies |
+|---------|----------|------------------|-------------|--------------|
+| [regression-car-price-prediction](regression-car-price-prediction) | Regression | Automotive Market | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [Kaggle](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data) | `Python`, `Pandas`, `scikit-learn`, `Seaborn` |
 
-**Área:** Mercado Financeiro
+---
 
-![credit-risk](https://user-images.githubusercontent.com/97552106/227337493-b89b20c8-94e0-4947-8e3d-ebd2af929d71.jpg)
+## 🛠️ Technologies Used
 
-A Easy Cash é um banco digital que atua desde 2015 no Brasil oferecendo produtos financeiros como: cartões de crédito, seguros e emprestímos. Uma das área que causa mais problemas para bancos, fintechs é a taxa de inadimplência por parte da sua carteira de clientes. No último resultado trimestral divulgado pela empresa, a diretoria financeira, comunicou que o número de inadimplentes após a liberação de crédito aumentou significativamente, tendo o ***EL (Expected Loss)*** com um aumento de 15% representando um ***EC (Economic Capital)*** de R$ 6.2 milhões para cobrir essas perdas inesperadas.
+- **Languages**: Python  
+- **Libraries**: Pandas, scikit-learn, Seaborn, Matplotlib  
+- **Modeling**: Linear Regression, Evaluation with R² and RMSE  
 
-Portanto, foi solicitado ao time de Data Science, que realizasse um estudo das informações financeiras e das solicitações de empréstimo para encontrar padrões que possam indicar uma possível inadimplência e determinar quais ações possam ser implementadas, afim de, reduzir estas perdas financeiras por conta de pessoas mutuárias que não quitam suas dívidas.
+---
 
+## 📌 Portfolio Objectives
 
-**Habilidades/ Ferramentas:** `Python` `Pandas` `Matplotlib` `Seaborn` `Sklearn`
+- Apply linear regression concepts to a real-world problem  
+- Interpret variables and correlations in automotive market data  
+- Showcase skills in visualization and predictive modeling evaluation  
 
+---
 
-## 📧 Contato
-Qualquer dúvida ou sugestão, sinta-se a vontade de falar comigo:
+## 📬 Contact
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-cardoso-8323b151) 
-
-
-
+- 🌐 [LinkedIn](https://www.linkedin.com/in/renan-cardoso-8323b151/)
+- 📧 renan.cs.sants@gmail.com
