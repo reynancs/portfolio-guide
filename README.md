@@ -6,7 +6,7 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
 
-Welcome to my project portfolio! Here you'll find hands-on projects solving real-world problems using Data Science, Data Engineering, Machine Learning, and Generative AI.
+Welcome to my project portfolio! Here you'll find hands-on projects solving real-world problems using Data Science, Machine Learning, and Generative AI.
 
 > 🔍 *This repository is focused on applied projects. For study notes and exercises, visit [`study-guide`](https://github.com/reynancs/study-guide).*
 
@@ -16,7 +16,7 @@ Welcome to my project portfolio! Here you'll find hands-on projects solving real
 
 | Project | Category | Industry Segment | Description | Technologies |
 |---------|----------|------------------|-------------|--------------|
-| [regression-car-price-prediction](regression-car-price-prediction) | Regression | Automotive Market / Sales | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [Kaggle](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data) | `Python`, `Pandas`, `scikit-learn`, `Seaborn` |
+| [car-price-prediction](car-price-prediction) | Regression | Automotive Market / Sales | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [Kaggle](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data) | `Python`, `Pandas`, `scikit-learn`, `Seaborn` |
 
 ---
 
