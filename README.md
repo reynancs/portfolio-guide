@@ -1,6 +1,5 @@
 # 🧠 Data Science & AI Project Portfolio
 [![Author](https://img.shields.io/badge/Author-Renan%20Cardoso-red.svg)](https://www.linkedin.com/in/renan-cardoso-8323b151) 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)
 [![Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
@@ -16,7 +15,7 @@ Welcome to my project portfolio! Here you'll find hands-on projects solving real
 
 | Project | Category | Industry Segment | Description | Technologies |
 |---------|----------|------------------|-------------|--------------|
-| [car-price-prediction](https://github.com/reynancs/car_price_prediction) | Regression | Automotive Market / Sales | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [Kaggle](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data) | `Python`, `Numpy` `Pandas`, `scikit-learn`, `Seaborn` |
+| [car-price-prediction](https://github.com/reynancs/car_price_prediction) | Regression | Automotive Market / Sales | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [UCI](https://archive.ics.uci.edu/dataset/10/automobile) | `Python`, `Numpy` `Pandas`, `scikit-learn`, `Seaborn` |
 
 ---
 
