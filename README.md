@@ -16,6 +16,7 @@ Welcome to my project portfolio! Here you'll find hands-on projects solving real
 | Project | Category | Industry Segment | Description | Technologies |
 |---------|----------|------------------|-------------|--------------|
 | [car-price-prediction](https://github.com/reynancs/car_price_prediction) | Regression | Automotive Market / Sales | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [UCI](https://archive.ics.uci.edu/dataset/10/automobile) | `Python`, `Numpy` `Pandas`, `scikit-learn`, `Seaborn` |
+| [space-y-capstone-project](https://github.com/reynancs/space-y-capstone-project) | Regression | Rocket Launch | Space Y - Cost Prediction of each rocket launch using API Space X | `Python`, `Numpy` `Pandas`, `scikit-learn`, `Seaborn`, `plotly` |
 
 ---
 
