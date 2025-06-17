@@ -15,27 +15,11 @@ Welcome to my project portfolio! Here you'll find hands-on projects solving real
 
 | Project | Category | Industry Segment | Description | Technologies |
 |---------|----------|------------------|-------------|--------------|
-| [space-y-capstone-project](https://github.com/reynancs/spacey-launch-cost-prediction) | Classification & Regression | Commercial Space | Space Y - Cost Prediction of each rocket launch using API Space X | `Python`, `Numpy` `Pandas`, `scikit-learn`, `Seaborn`, `plotly` |
+| [space-y-capstone-project](https://github.com/reynancs/spacey-launch-cost-prediction) | Classification | Commercial Space | Space Y - classify the outcome of the first-stage recovery (landed or not landed).Cost Prediction using classify the outcome of the first-stage recovery (landed or not landend) using API Space X | `Python`, `Numpy` `Pandas`, `scikit-learn`, `Seaborn`, `plotly` |
 | [car-price-prediction](https://github.com/reynancs/car_price_prediction) | Regression | Automotive Industry | Predicting car prices based on attributes such as year, brand, mileage, and fuel type. Dataset from [UCI](https://archive.ics.uci.edu/dataset/10/automobile) | `Python`, `Numpy` `Pandas`, `scikit-learn`, `Seaborn` |
 
-
 ---
 
-## 🛠️ Technologies Used
-
-- **Languages**: Python  
-- **Libraries**: Pandas, scikit-learn, Seaborn, Matplotlib  
-- **Modeling**: Linear Regression, Evaluation with R² and RMSE  
-
----
-
-## 📌 Portfolio Objectives
-
-- Apply linear regression concepts to a real-world problem  
-- Interpret variables and correlations in automotive market data  
-- Showcase skills in visualization and predictive modeling evaluation  
-
----
 
 ## 📬 Contact
 
